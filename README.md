@@ -56,12 +56,8 @@ Olá👋!Meu nome é Felipe Alves
 
 ###
 
-<p align="left">Sou estudante de Tecnologia em análise de desenvolvimento de sistemas, estudo front-end com as tecnologias Html, Css, JavaScript, React</p>
+<p align="left">Sou formado em Tecnologia em análise de desenvolvimento de sistemas, estudo front-end com as tecnologias Html, Css, JavaScript, React</p>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/felipe-alvess/count.svg?"  />
-</div>
 
-###
