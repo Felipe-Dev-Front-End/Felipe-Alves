@@ -48,8 +48,8 @@
   <a href="luizfelipea445@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=luizfelipea445@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
- <a href="luizfelipea445@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=luizfelipea445@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
+ <a href="flp_luizfelipe@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=flp_luizfelipe@hotmail.com&logo=gmail&label=Email&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
 </div>
