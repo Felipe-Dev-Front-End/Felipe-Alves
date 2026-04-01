@@ -55,7 +55,6 @@
 </div>
 
 ###
-
 <img src="https://raw.githubusercontent.com/felipe-alvess/felipe-alvess/output/snake.svg" alt="Snake animation" />
 
 ###
