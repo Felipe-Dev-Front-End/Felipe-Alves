@@ -54,7 +54,7 @@
 
 ###
 <img src="https://raw.githubusercontent.com/felipe-alvess/felipe-alvess/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://github.com/Felipe-Dev-Front-End/Felipe-Dev-Front-End/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Felipe-Dev-Front-End/Felipe-Alves/blob/output/github-contribution-grid-snake.svg)
 <p align="left">Sou formado em Tecnologia em análise de desenvolvimento de sistemas, estudo front-end com as tecnologias Html, Css, JavaScript, React</p>
 
 ###
