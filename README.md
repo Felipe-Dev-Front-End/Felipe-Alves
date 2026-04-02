@@ -1,5 +1,6 @@
 # Felipe-Alves
 
+![Estatísticas do GitHub](https://vercel.app)
 
 
 <h2 align="center">Olá👋!Meu nome é Felipe Alves</h2>
