@@ -1,10 +1,5 @@
 # Felipe-Alves
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Felipe-Dev-Front-End&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Dev-Front-End&layout=compact)
-
-
 <h2 align="center">Olá👋!Meu nome é Felipe Alves</h2>
 
 ###
