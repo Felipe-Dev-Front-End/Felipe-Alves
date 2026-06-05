@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="150" src="https://felipe-alvess.github.io/portfolio.com.br/img/Felipe.jpg"  />
+<!-- <img align="right" height="150" src="https://felipe-alvess.github.io/portfolio.com.br/img/Felipe.jpg"  /> -->
 
 ###
 
@@ -51,7 +51,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/felipe-alvess/felipe-alvess/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/felipe-alvess/felipe-alvess/output/snake.svg" alt="Snake animation" /> -->
 <p align="left">Sou formado em Tecnologia em análise de desenvolvimento de sistemas, estudo front-end com as tecnologias Html, Css, JavaScript, React</p>
 
 ###
