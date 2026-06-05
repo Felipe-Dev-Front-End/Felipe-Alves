@@ -1,7 +1,7 @@
 # Felipe-Alves
 
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlves)](https://github.com/FelipeAlves/github-readme-stats)
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlves&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Alves&show_icons=true&theme=dracula)
+
 
 
 <h2 align="center">Olá👋!Meu nome é Felipe Alves</h2>
