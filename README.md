@@ -1,6 +1,6 @@
 # Felipe-Alves
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Alves)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlves)](https://github.com/FelipeAlves/github-readme-stats)
 
 
 <h2 align="center">Olá👋!Meu nome é Felipe Alves</h2>
